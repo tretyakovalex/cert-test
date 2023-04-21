@@ -3,3 +3,5 @@ node_modules
 package-lock.json
 Dockerfile
 routes.rest
+id_rsa_priv.pem
+id_rsa_pub.pem
